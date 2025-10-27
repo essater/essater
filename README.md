@@ -1,25 +1,32 @@
 <h1 align="center">👋 Hi, I'm İsmail Esat Erbay</h1>
 
 <p align="center">
-  🧩 <b>Frontend & Mobile Developer</b> | 🐍 <b>Python & Data Enthusiast</b>  
+  🧩 <b>Mobile & Frontend Developer</b> | 🧠 <b>Computer Engineer</b> | 🐍 <b>Python & AI Enthusiast</b>  
   <br>
-  🎯 Currently learning <b>React Native</b> and strengthening my <b>Python + DSA</b> foundation  
+  🎯 Passionate about building scalable, user-oriented, and innovative mobile applications.  
   <br>
-  📍 Based in Türkiye | 📧 erbay.essa@gmail.com
+  📍 Istanbul, Türkiye | 📧 erbay.essa@gmail.com  
+  <br>
+  🌐 <a href="https://www.linkedin.com/in/ismail-esat-erbay-18794b242">LinkedIn</a>  
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Technical Skills
 
-**Frontend & Mobile:**  
-`HTML` · `CSS` · `JavaScript` · `React` · `React Native (in progress)`  
+**Programming Languages:**  
+`Kotlin (Jetpack Compose)` · `JavaScript` · `Python` · `C` · `Java` · `MATLAB`
 
-**Backend & Data:**  
-`Python` · `Flask` (future) · `Pandas` (future)  
+**Frameworks & Tools:**  
+`React Native` · `Android Studio` · `Firebase` · `PyCharm` · `Vite` · `Git` · `GitHub`
 
-**Tools & Workflow:**  
-`Git` · `GitHub` · `Vite` · `VS Code`
+**Areas of Knowledge:**  
+- Mobile App Development (Android, React Native)  
+- Data Structures & Algorithms  
+- Embedded Systems & Hardware Integration  
+- Data Analytics (KNIME, MATLAB)  
+- Artificial Intelligence Foundations  
+- Network & Cybersecurity Fundamentals  
 
 ---
 
@@ -30,17 +37,23 @@
 
 ---
 
-### 📚 Featured Projects
+### 🚀 Featured Projects
 
 | Project | Description | Tech |
 |----------|--------------|------|
-| 🧠 **HeuristicSearchGame** | Search algorithm simulation in Python | Python |
-| ✂️ **Rock Paper Scissor Game** | Playable JS game vs computer | JavaScript |
-| 📝 **To-Do List App** | Simple and responsive task tracker | JavaScript |
-| 🔔 **Doorbell** | Digital sound detection demo | Python |
-| 🛍️ **Amazon Clone Project** | UI clone of Amazon main page | HTML · CSS · JS |
+| 💸 **PayMe** | Digital wallet & transaction tracking app | React Native · Firebase |
+| 🧠 **HeuristicSearchGame** | Search algorithm simulation | Python |
+| 🛍️ **Amazon Clone Project** | Responsive e-commerce UI | HTML · CSS · JS |
+| 📝 **To-Do List App** | Task manager with local storage | JavaScript |
+| ✂️ **Rock Paper Scissor Game** | Simple game vs AI logic | JavaScript |
+| 🔔 **Doorbell** | Embedded sound detection prototype | Python · Hardware |
 
 ---
+
+### 🎯 Current Focus (2025)
+- Advancing in **React Native & cross-platform mobile apps**  
+- Mastering **Python algorithms & DSA**  
+- Exploring **AI and data science applications** for mobile technologies  
 
 ### 🌱 Continuous Growth
 > “Code. Learn. Repeat.”  
@@ -56,5 +69,3 @@ Every week I’m exploring new concepts in **React**, **Python**, and **AI funda
 </p>
 
 ---
-
-<p align="center">✨ “Building apps that look good and think smart.” ✨</p>
