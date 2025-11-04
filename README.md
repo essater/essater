@@ -18,7 +18,7 @@
 `Kotlin (Jetpack Compose)` · `JavaScript` · `Python` · `C` · `Java` · `MATLAB`
 
 **Frameworks & Tools:**  
-`React Native` · `Android Studio` · `Firebase` · `PyCharm` · `Vite` · `Git` · `GitHub`
+`React` ·`React Native` · `Android Studio` · `Firebase` · `PyCharm` · `Vite` · `Git` · `GitHub`
 
 **Areas of Knowledge:**  
 - Mobile App Development (Android, React Native)  
